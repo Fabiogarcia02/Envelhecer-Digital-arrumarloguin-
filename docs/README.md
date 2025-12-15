@@ -5,7 +5,7 @@ Nesse Projeto fiquei responsável nas sprints em fazer o jogo da memoria, home-p
 
 Projeto Desenvolvido por Alunos do 1º Periodo do Curso de Engenharia de Software 
 
-Site Implementado:[ https://a38309a0-2641-4af7-bff4-15dbb58b7954-00-3u9eur81zcd6m.worf.replit.dev/login.html](https://envelhecerdigital2-4pjojklro-fabiogarcia02s-projects.vercel.app)
+
 
 Informações básicas do projeto:
 * **Projeto:** Envelhecerdigital
